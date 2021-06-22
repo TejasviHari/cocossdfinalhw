@@ -1,0 +1,22 @@
+body{
+    background-size:cover;
+    background-position: center;
+}
+
+h3{
+    font-size: black;
+    font-weight: bold;
+    background-color: white;
+}
+
+a{
+    font-size: 18px;
+    border-radius: 30px;
+    width: 400px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.buttons{
+    padding: 100px;
+
+}
